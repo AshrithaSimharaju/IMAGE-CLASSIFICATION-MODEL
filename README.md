@@ -33,5 +33,5 @@ Though synthetic, the workflow mimics real-world image classification processes.
 
 
 ## OUTPUT:
-https://github.com/user-attachments/assets/46fe754e-5f57-47aa-a459-4516d4aa03be
+https://github.com/user-attachments/assets/f4145bc4-bb85-44e4-898a-3b2d78a454a4
 
