@@ -10,9 +10,8 @@
 ##  DESCRIPTION
 
 This project demonstrates an end-to-end **Image Classification** model using a **Convolutional Neural Network (CNN)** built with TensorFlow and Keras.  
-The goal is to classify manually labeled data representing 7 object categories, using simulated RGB images (32x32x3).
 
-The pipeline includes:
+These includes:
 - Simulated dataset creation
 - Data preprocessing and one-hot encoding
 - CNN architecture design
